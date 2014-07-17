@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
 			.add(R.id.container, new PlaceholderFragment()).commit();
 		}
 
-		zeroY();
+		one();
 	}
 
 	private void zero() {
